@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/gauravkumar/Desktop/Code Playground/C_Data-structure/test/quick'
+relocations:     []
+...
